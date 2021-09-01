@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918895030465",
+    "project_id": "delta-1a18e",
+    "storage_bucket": "delta-1a18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918895030465:android:6515eac9ecb3c3ecac2440",
+        "android_client_info": {
+          "package_name": "com.example.delta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918895030465-eh34hqstrgk695s96dv4hegck53kdia0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delta",
+            "certificate_hash": "9d040a3f23ac6f600effc88f985d3319f66b5633"
+          }
+        },
+        {
+          "client_id": "918895030465-je11qfhb2afn0anflokoe3cbhtv7bmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJto1Ol8myzXtW-hr80EBj_z4xNQMGINU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918895030465-je11qfhb2afn0anflokoe3cbhtv7bmm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
